@@ -6,8 +6,8 @@ body{
     align-items: center;
     display: flex;
     flex-direction: column;
-    height: 50vh;  
-    width: 50vh;
+    height: 55vh;  
+    width: 55vh;
     justify-content: center;
     background-color: rgba(233, 135, 70, 0.719);
     margin: 10% auto;

@@ -30,7 +30,6 @@ const checkEndGame = () =>{
     if(disableCards.length == 20){
         clearInterval(this.loop);
         alert(`Parabens, ${spanPlayer.innerHTML}! Seu tempo foi:${timer.innerHTML} `);
-        alert(location);
         window.location = '../index.html';
     } 
 }
